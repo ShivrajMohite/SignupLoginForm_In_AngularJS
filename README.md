@@ -1,5 +1,5 @@
 # SignupLoginForm_In_AngularJS
-Here is a AngularJS user Signup and Login authentication using PHP and MySQL
+
 
 First create a database angularjs_login and table name as user_data
 <table>
@@ -40,4 +40,18 @@ First create a database angularjs_login and table name as user_data
 http://localhost/angularjsLogin/angularlogin
 <hr>
 
+# LogIn Page
+
 ![login](https://user-images.githubusercontent.com/34600724/43336726-8caee122-91ef-11e8-9a46-02d32f372fb5.jpg)
+
+<hr>
+
+# SignUp Page
+
+![signup](https://user-images.githubusercontent.com/34600724/43399906-e1bcdca0-9429-11e8-9fa5-131b10485fc7.jpg)
+
+<hr>
+
+# In
+
+![in](https://user-images.githubusercontent.com/34600724/43399912-e58ecf1e-9429-11e8-9563-688898f77c91.jpg)
